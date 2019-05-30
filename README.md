@@ -22,5 +22,7 @@ Basemap of HK was base on the shape file gadm36_HKG_1, all shape files can be fo
 
 ![image](https://user-images.githubusercontent.com/29504448/58641208-57b8b300-832d-11e9-9892-65cb0669e126.png)
 
+
+Size of properties across region
 ![image](https://user-images.githubusercontent.com/29504448/58641282-7c148f80-832d-11e9-9da2-90c432feb7cb.png)
 
