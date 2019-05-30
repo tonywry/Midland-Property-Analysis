@@ -10,7 +10,7 @@ Data of this project was collected from Midland Property Website by utilizing we
 
 chromedriver of Version 73.0.3683.68 was used in this project, drivers for other versions/browsers can be downloaded here (https://www.seleniumhq.org/download/)
 
-Folder Sample Data comprises the collected data as of 22-May-2019
+Folder "Sample Data" comprises the collected data as of 22-May-2019
 
 ### Data Cleansing
 geocoders was used to find GPS Coordinates by the property's address, by which scatter plot can be drawn on the map
@@ -18,7 +18,7 @@ geocoders was used to find GPS Coordinates by the property's address, by which s
 ### Data Visualization
 Several plots for the Analysis as below. 
 
-Basemap of HK was base on the shape file gadm36_HKG_1, all shape files can be found here (https://gadm.org/download_country_v3.html)
+Basemap of HK was base on the shape file gadm36_HKG_1, all shape files can be downloaded here (https://gadm.org/download_country_v3.html)
 
 ![image](https://user-images.githubusercontent.com/29504448/58641110-2344f700-832d-11e9-9541-b5f9e2c4e487.png)
 
