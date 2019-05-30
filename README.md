@@ -10,6 +10,8 @@ Data of this project was collected from Midland Property Website by utilizing we
 
 chromedriver of Version 73.0.3683.68 was used in this project, drivers for other versions/browsers can be downloaded here (https://www.seleniumhq.org/download/)
 
+Folder Sample Data comprises the collected data as of 22-May-2019
+
 ### Data Cleansing
 geocoders was used to find GPS Coordinates by the property's address, by which scatter plot can be drawn on the map
 
