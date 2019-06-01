@@ -1,6 +1,6 @@
 ## Midland-Property-Analysis
 
-This is an Analysis of Hong Kong Housing Price, A simple demonstration on web-crawling by Selenium and data visualization, individual project of HKU STAT7008 Course - Programming for data science
+This is an Analysis of Hong Kong Housing Price, A simple demonstration on web-crawling by Selenium and data visualization, individual project of HKU STAT7008 Course
 
 ![image](https://user-images.githubusercontent.com/29504448/58641354-9babb800-832d-11e9-9134-9c7c70a10e41.png)
 
