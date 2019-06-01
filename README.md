@@ -12,6 +12,29 @@ chromedriver of Version 73.0.3683.68 was used in this project, drivers for other
 
 Folder "Sample Data" comprises the collected data as of 22-May-2019
 
+Variables collected in this project:
+1. sell_price – Selling price of the property, in Million
+2. rent_price – Renting price of the property if the property is also open for renting
+3. net_area – Net area of the property, in square feet
+4. gross_area – Gross area of the property, in square feet
+5. effi_ratio – Efficiency Ratio, in percentage, value equal to net_area/gross_area
+6. layout – Layout of the property, stated how many rooms does the property have
+7. orit – Orientation of the property, possible values include North/West/East/South, etc.
+8. view – View of the property, if any
+9. desc – Any description of the property that the owner provided, if any
+10. upd_dt – Update date of the property on the website
+11. addr – Address of the property
+12. blk_num – Number of blocks of the property
+13. school – Name of school(s) around the property, if any
+14. ttl_flt – Total number of flats
+15. occu_permit_dt – Date of occupation Permit
+16. facilities – Facilities around the property, if any
+17. prop_val – Property Value
+18. ln_amt – Loan Amount
+19. int_rt – Interest Rate of the Mortgage Plan
+20. rpy_prd – Repayment Period of the Mortgage Plan
+21. inc_reqr – Income requirement of buying this property/applying the mortgage
+
 ### Data Cleansing
 geocoders was used to find GPS Coordinates by the property's address, by which scatter plot can be drawn on the map
 
