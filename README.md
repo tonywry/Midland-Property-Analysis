@@ -37,6 +37,7 @@ Variables collected in this project:
 
 Other information can also be scraped from this page, but not in scope of this project
 
+
 ### Data Cleansing
 geocoders was used to find GPS Coordinates by the property's address, by which scatter plot can be drawn on the map
 
